@@ -34,7 +34,7 @@ let s:palette.guide     = {'dark': "#2D3640",  'light': "#D9D8D7",  'mirage': "#
 let s:palette.line      = {'dark': "#151A1E",  'light': "#F3F3F3",  'mirage': "#242B38"}
 let s:palette.selection = {'dark': "#253340",  'light': "#F0EEE4",  'mirage': "#343F4C"}
 let s:palette.fg        = {'dark': "#E6E1CF",  'light': "#5C6773",  'mirage': "#D9D7CE"}
-let s:palette.fg_idle   = {'dark': "#3E4B59",  'light': "#828C99",  'mirage': "#6C7E91"}
+let s:palette.fg_idle   = {'dark': "#3E4B59",  'light': "#828C99",  'mirage': "#FFFFFF"}
 
 "}}}
 
